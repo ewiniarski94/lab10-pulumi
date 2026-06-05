@@ -1,4 +1,5 @@
 encryptionsalt: v1:u6zG1/s0kHM=:v1:CmHbpYQLEvN19Kks:u/rRAYcgzw6O/WqoVggBXMr0knUmgQ==
 config:
   iac:github_token:
-    secure: v1:EVt2DzEc3DIRIGUo:OJyaKVxful56KPYDkVO/GXLgK0cbSLwpx726eDeCU6AX
+    secure: v1:Gz8AzMgbef+VT+m/:i0qqYU3sZ9MUbqXIG3SQwKJvM8a7Us9sUQtcFhTTtF0y8pVCw4I1pVBQlUJz2G7lc58wZDdCoIE=
+  iac:repo_visibility: public
